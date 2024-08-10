@@ -1,4 +1,4 @@
-.closeButton:hover
+.closeButton:active
 {
    color:red;
    background-color: green;
@@ -6,4 +6,11 @@
 #modal:hover{
 font-size: larger;
 text-decoration: underline red;
+}
+#one:checked
+{
+background-color: orange;
+}
+p:hover{
+   color: red;
 }
