@@ -1,0 +1,9 @@
+.closeButton:hover
+{
+   color:red;
+   background-color: green;
+}
+#modal:hover{
+font-size: larger;
+text-decoration: underline red;
+}
